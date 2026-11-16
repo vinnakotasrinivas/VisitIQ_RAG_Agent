@@ -1,0 +1,46 @@
+name,category,area,open_time,close_time,closed_day,ticket_indian_inr,ticket_foreign_inr,visit_mins,nearest_metro,metro_distance_km,rating,description
+Charminar,Monument,Charminar,09:30,17:30,None,25,300,60,MG Bus Station,2.5,4.6,Iconic 1591 monument with four minarets built by Muhammad Quli Qutb Shah; climb to the first floor for views of Laad Bazaar.
+Mecca Masjid,Religious Site,Charminar,04:00,21:30,None,0,0,30,MG Bus Station,2.4,4.5,"One of India's largest mosques, beside Charminar. Visitors should avoid prayer times and dress modestly."
+Laad Bazaar,Market,Charminar,11:00,22:00,None,0,0,60,MG Bus Station,2.5,4.4,Historic bangle market (Choodi Bazaar) running west from Charminar; famous for lacquer bangles and pearls.
+Chowmahalla Palace,Palace,Charminar,10:00,17:00,Friday,80,200,90,MG Bus Station,3.0,4.6,"Seat of the Asaf Jahi Nizams with four palaces, a clock tower and a vintage car collection."
+Bhagyalakshmi Temple,Religious Site,Charminar,05:00,22:00,None,0,0,20,MG Bus Station,2.5,4.2,Small Hindu temple at the base of Charminar's south-east minaret.
+Badshahi Ashurkhana,Heritage,Charminar,10:00,17:00,None,0,0,30,MG Bus Station,2.2,4.1,1594 royal mourning hall known for its Persian tile mosaics; most crowded during Muharram.
+Pathergatti Shopping Street,Market,Charminar,11:00,21:00,None,0,0,45,MG Bus Station,2.0,4.2,"Stone-arcaded street north of Charminar for pearls, attar, textiles and Irani chai stops."
+Gulzar Houz,Heritage,Charminar,00:00,23:59,None,0,0,15,MG Bus Station,2.3,4.0,Historic fountain square between Charminar and Char Kaman arches.
+Salar Jung Museum,Museum,Afzal Gunj,10:00,17:00,Friday,50,500,150,MG Bus Station,1.0,4.7,"One of India's largest one-man collections: the Veiled Rebecca, the musical clock (chimes on the hour) and Mughal jade."
+Nizam's Museum (Purani Haveli),Museum,Old City,10:00,17:00,Friday,100,200,60,MG Bus Station,2.0,4.3,"Gifts presented to the seventh Nizam, including a silver jubilee collection and the world's longest wardrobe."
+Nehru Zoological Park,Zoo,Old City,08:30,17:00,Monday,100,100,180,MG Bus Station,6.0,4.3,Large zoo with lion safari and nocturnal house; battery vehicles available inside.
+Sudha Cars Museum,Museum,Old City,09:30,18:30,None,50,150,45,MG Bus Station,5.5,4.2,"Quirky handmade cars shaped like burgers, cricket bats and handbags."
+Paigah Tombs,Heritage,Old City,10:00,17:00,Friday,0,0,45,MG Bus Station,6.5,4.4,Marble tombs of the Paigah nobility with exquisite lattice and stucco work; quiet and rarely crowded.
+Golconda Fort,Fort,Golconda,09:00,17:30,None,25,300,150,Jubilee Hills Check Post,8.0,4.6,Qutb Shahi citadel famous for its acoustics (a clap at the gate is heard at the top) and the Bala Hissar climb.
+Qutb Shahi Tombs,Heritage,Golconda,09:30,17:30,Friday,40,400,90,Jubilee Hills Check Post,7.0,4.6,"Restored necropolis of the seven Qutb Shahi rulers, with domed tombs, step wells and gardens."
+Taramati Baradari,Heritage,Golconda,10:00,18:00,None,0,0,40,Jubilee Hills Check Post,10.0,4.0,Hilltop pavilion linked to the legend of the court singer Taramati; good for sunset views.
+Birla Mandir,Religious Site,Lakdikapul,07:00,21:00,None,0,0,45,Lakdikapul,1.0,4.6,White marble Venkateswara temple on Naubath Pahad; closed to visitors 12:00-14:00; phones and cameras not allowed inside.
+Birla Planetarium and Science Museum,Museum,Lakdikapul,10:30,20:00,None,100,100,90,Lakdikapul,1.0,4.3,Planetarium shows and a dinosaur fossil gallery next to Birla Mandir.
+Telangana State Archaeology Museum,Museum,Nampally,10:30,17:00,Friday,10,100,60,Nampally,0.8,4.1,"Oldest museum in the state with an Egyptian mummy and Buddhist sculptures, in the Public Gardens."
+Hussain Sagar Lake and Buddha Statue,Lake,Tank Bund,09:00,21:00,None,90,90,60,Khairatabad,1.5,4.5,Heart-shaped lake with a 16 m monolithic Buddha statue; ticket covers the boat ride from Lumbini Park.
+Lumbini Park,Park,Tank Bund,09:00,21:00,Monday,20,20,60,Khairatabad,1.2,4.1,Lakeside park with musical fountain and the jetty for boats to the Buddha statue.
+NTR Gardens,Park,Necklace Road,14:00,21:00,None,20,20,60,Khairatabad,1.0,4.0,Family garden with toy train and rides on the banks of Hussain Sagar.
+Sanjeevaiah Park,Park,Necklace Road,08:30,18:30,None,10,10,45,Khairatabad,2.5,4.0,Large lakeside park with the national flag post and rose garden.
+Snow World,Theme Park,Tank Bund,11:00,20:00,None,550,550,120,Khairatabad,3.0,3.9,Indoor snow park on Lower Tank Bund; jackets and boots provided.
+Tank Bund Promenade,Heritage,Tank Bund,00:00,23:59,None,0,0,40,Khairatabad,2.0,4.2,Lake-front road lined with statues of Telugu luminaries; car-free 'Sunday Funday' evenings.
+Secunderabad Clock Tower,Heritage,Secunderabad,06:00,20:00,None,0,0,20,Parade Ground,1.5,3.9,1897 clock tower in a small garden in the twin city of Secunderabad.
+Spanish Mosque,Religious Site,Begumpet,10:00,17:00,Friday,0,0,30,Begumpet,1.0,4.3,Moorish-style mosque inspired by the Cordoba mosque; visits on request outside prayer times.
+Jagannath Temple,Religious Site,Banjara Hills,06:00,21:00,None,0,0,40,Jubilee Hills Check Post,2.0,4.6,Sandstone temple modelled on Puri's Jagannath temple; beautiful when lit in the evening.
+Peddamma Temple,Religious Site,Jubilee Hills,06:00,21:00,None,0,0,30,Peddamma Gudi,0.3,4.5,Popular temple to the mother goddess; very busy during Bonalu festival.
+KBR National Park,Park,Jubilee Hills,05:30,18:00,None,35,35,75,Jubilee Hills Check Post,0.8,4.4,"Urban forest with a 6 km walking loop, peacocks and the Chiran Palace."
+State Gallery of Art,Gallery,Madhapur,11:00,19:00,Monday,0,0,60,Madhapur,2.0,4.2,Contemporary and folk art exhibitions in Kavuri Hills.
+Shilparamam,Crafts Village,Madhapur,10:30,20:00,None,60,100,90,Hitech City,0.8,4.3,Arts and crafts village with artisans from across India and evening cultural performances.
+Durgam Cheruvu Cable Bridge,Lake,Madhapur,06:00,23:00,None,0,0,45,Durgam Cheruvu,1.0,4.4,Lit cable-stayed bridge over the 'Secret Lake'; best after 19:00.
+Botanical Garden (Kotla Vijayabhaskara Reddy),Park,Kondapur,08:30,18:00,Monday,40,40,90,Hitech City,4.0,4.1,Themed gardens and a nature trail in Kondapur.
+Inorbit Mall,Shopping,Hitech City,10:00,22:00,None,0,0,90,Hitech City,1.5,4.3,Large mall beside Durgam Cheruvu with food court and multiplex.
+Ramoji Film City,Theme Park,Ramoji Film City,09:00,17:30,None,1350,1350,480,LB Nagar,25.0,4.4,"One of the world's largest film studio complexes; plan a full day, about 30 km from the city."
+Statue of Equality,Religious Site,Shamshabad,11:00,20:00,Wednesday,150,150,120,None,0.0,4.6,216-foot seated statue of Ramanujacharya at Muchintal; laser show in the evening.
+British Residency,Heritage,Koti,10:00,17:00,Sunday,20,100,45,Sultan Bazaar,0.8,4.1,"1803 Palladian mansion, now part of Osmania University Women's College; restored by WMF."
+Mozamjahi Market,Market,Abids,07:00,22:00,None,0,0,30,Nampally,1.0,4.1,Restored 1935 stone market famous for fruit stalls and the Famous Ice Cream shop.
+Nampally Exhibition Grounds,Venue,Nampally,16:00,22:30,None,0,0,120,Nampally,0.5,4.0,"Venue of Numaish, the All India Industrial Exhibition, every January to mid-February."
+Lamakaan Cultural Space,Venue,Banjara Hills,10:00,22:00,Monday,0,0,60,Jubilee Hills Check Post,1.5,4.5,"Open cultural space with free events, plays and the famous Irani chai and samosa canteen."
+Ravindra Bharathi Auditorium,Venue,Lakdikapul,10:00,21:30,None,0,0,120,Lakdikapul,0.5,4.2,"State auditorium hosting classical music, dance and theatre."
+Chiran Fort Club Heritage Walk,Heritage,Jubilee Hills,07:00,10:00,None,0,0,60,Jubilee Hills Check Post,1.0,3.9,Guided morning heritage walk around the Chiran palace precinct (weekends best).
+Moula Ali Dargah,Religious Site,Secunderabad,06:00,20:00,None,0,0,60,Tarnaka,5.0,4.2,Hilltop shrine reached by about 500 steps; panoramic city views.
+Ocean Park,Theme Park,Gachibowli,10:00,18:30,None,500,500,240,Raidurg,12.0,3.8,Water park near Gandipet; carry swimwear.

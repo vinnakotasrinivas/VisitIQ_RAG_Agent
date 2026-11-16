@@ -1,0 +1,9 @@
+[server]
+# Slightly above the app's own 19 MB limit so oversized files reach VisitIQ's validator and get a friendly message.
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#C0392B"

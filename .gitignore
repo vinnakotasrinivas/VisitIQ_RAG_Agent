@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+vectordb/chroma_store/
+vectordb/tables/
+sample_data/invalid/oversize_20mb.txt
+pip_install.log
+# .env is intentionally committed for the evaluator (capstone requirement). Use a free-tier key.

@@ -1,0 +1,151 @@
+name,cuisine,area,price_per_person_inr,veg_options,rating,open_time,close_time
+Shadab Hotel,Hyderabadi Biryani,Charminar,400,Limited,4.3,11:00,23:30
+Hotel Nayaab,Hyderabadi Breakfast,Charminar,200,Limited,4.4,05:00,23:00
+Nimrah Cafe and Bakery,Irani Cafe,Charminar,100,Yes,4.5,05:00,23:00
+Govind Dosa,South Indian,Charminar,120,Pure veg,4.4,06:00,11:30
+Pista House Charminar,Hyderabadi Biryani,Charminar,350,Limited,4.2,10:00,23:30
+Hotel Shah Ghouse Charminar,Hyderabadi Biryani,Charminar,450,Limited,4.3,06:00,23:59
+Mehboob Ki Dukaan,Hyderabadi Snacks,Charminar,150,Yes,4.1,16:00,23:00
+Hafiz Dhaba Old City,Hyderabadi,Old City,300,Limited,4.0,11:00,23:00
+Famous Ice Cream,Desserts,Abids,100,Pure veg,4.5,11:00,23:00
+Cafe Bahar,Hyderabadi Biryani,Abids,400,Limited,4.4,11:00,23:30
+Taj Mahal Hotel Abids,South Indian,Abids,250,Pure veg,4.2,06:30,22:30
+Santosh Dhaba,North Indian,Abids,300,Pure veg,4.1,11:00,23:00
+Paradise Biryani Secunderabad,Hyderabadi Biryani,Secunderabad,500,Limited,4.2,11:00,23:30
+Alpha Hotel,Irani Cafe,Secunderabad,250,Yes,4.1,05:30,23:00
+Garden Restaurant,Irani Cafe,Secunderabad,200,Yes,4.0,06:00,23:00
+Kamat Hotel Secunderabad,South Indian,Secunderabad,250,Pure veg,4.1,07:00,22:30
+Chutneys Banjara Hills,South Indian,Banjara Hills,350,Pure veg,4.4,07:00,23:00
+Haldiram's Banjara Hills,North Indian,Banjara Hills,300,Pure veg,4.1,09:00,23:00
+Hotel Sarvi,Irani Cafe,Banjara Hills,400,Yes,4.0,06:00,23:30
+Ohri's Banjara,Multi-cuisine,Banjara Hills,900,Yes,4.2,12:00,23:30
+Barbeque Nation Banjara Hills,Barbecue,Banjara Hills,1100,Yes,4.3,12:00,23:00
+Chichas,Hyderabadi,Banjara Hills,650,Limited,4.2,12:00,23:00
+Rayalaseema Ruchulu,Andhra Meals,Banjara Hills,550,Yes,4.2,12:00,23:00
+Annapurna Udupi Bhavan,South Indian,Banjara Hills,220,Pure veg,4.2,07:00,22:30
+Sri Krishna Thali House,Gujarati Thali,Banjara Hills,450,Pure veg,4.3,11:30,22:30
+Green Leaf Veg Kitchen,North Indian,Banjara Hills,520,Pure veg,4.0,11:00,23:00
+Minerva Coffee Shop,South Indian,Somajiguda,300,Pure veg,4.3,07:00,23:00
+Cream Stone Jubilee Hills,Desserts,Jubilee Hills,250,Pure veg,4.4,11:00,23:59
+Vivaha Bhojanambu,Andhra Meals,Jubilee Hills,600,Yes,4.3,12:00,23:00
+Ulavacharu Madhapur,Andhra Meals,Madhapur,600,Yes,4.2,12:00,23:30
+Kritunga Madhapur,Andhra Meals,Madhapur,500,Yes,4.0,11:30,23:00
+Mehfil Hitech City,Hyderabadi Biryani,Hitech City,400,Limited,4.0,11:00,23:59
+Absolute Barbecues Gachibowli,Barbecue,Gachibowli,1200,Yes,4.4,12:00,23:00
+Shah Ghouse Gachibowli,Hyderabadi Biryani,Gachibowli,450,Limited,4.1,11:00,23:59
+Spicy Venue Tolichowki,Hyderabadi,Tolichowki,400,Limited,4.0,11:00,23:30
+Golconda Pavilion,Multi-cuisine,Golconda,900,Yes,4.2,12:00,23:00
+Fort View Cafe,Cafe,Golconda,250,Yes,3.9,09:00,21:00
+Sri Rasoi Banjara Hills,Gujarati Thali,Banjara Hills,490,Pure veg,3.8,11:30,22:30
+Taste of Rasoi Banjara Hills,Seafood,Banjara Hills,1060,Limited,3.6,12:00,23:00
+Hotel Express Charminar,South Indian,Charminar,240,Pure veg,4.1,07:00,22:30
+Paradise Treat Hitech City,Bakery and Cafe,Hitech City,430,Pure veg,4.0,08:00,22:30
+Udupi Dhaba Secunderabad,Street Food and Chaat,Secunderabad,80,Pure veg,4.3,15:00,23:00
+Nawab's House Tank Bund,Seafood,Tank Bund,660,Limited,3.7,12:00,23:00
+Spice Palace Abids,North Indian,Abids,430,Yes,4.4,11:30,23:00
+New Palace Koti,South Indian,Koti,310,Pure veg,3.6,07:00,22:30
+Kitchen of Dhaba Lakdikapul,Gujarati Thali,Lakdikapul,540,Pure veg,4.1,11:30,22:30
+Udupi House Gachibowli,South Indian,Gachibowli,160,Pure veg,4.4,07:00,22:30
+Golden Treat Secunderabad,Continental,Secunderabad,1450,Yes,3.9,12:00,23:30
+Taste of House Hitech City,Chinese,Hitech City,660,Yes,4.5,12:00,23:00
+New Rasoi Madhapur,Street Food and Chaat,Madhapur,140,Pure veg,3.7,15:00,23:00
+Royal Treat Golconda,Andhra Meals,Golconda,420,Yes,4.4,11:30,22:30
+Udupi Darbar Old City,Irani Cafe,Old City,180,Yes,3.8,06:00,23:00
+Royal Treat Ameerpet,Street Food and Chaat,Ameerpet,210,Pure veg,3.9,15:00,23:00
+The Express Secunderabad,Hyderabadi Biryani,Secunderabad,680,No,4.1,11:00,23:30
+Spice Bistro Nampally,Seafood,Nampally,1100,Limited,3.9,12:00,23:00
+Golden Palace Tolichowki,Hyderabadi Biryani,Tolichowki,690,Limited,3.6,11:00,23:30
+Udupi Treat Madhapur,Hyderabadi Biryani,Madhapur,520,No,4.2,11:00,23:30
+Golden Kitchen Lakdikapul,Continental,Lakdikapul,860,Yes,4.6,12:00,23:30
+Taste of Bistro Banjara Hills,Gujarati Thali,Banjara Hills,620,Pure veg,4.3,11:30,22:30
+Spice Delight Begumpet,North Indian,Begumpet,480,Yes,3.5,11:30,23:00
+New Bistro Madhapur,Bakery and Cafe,Madhapur,200,Pure veg,4.5,08:00,22:30
+Grand Express Tolichowki,Gujarati Thali,Tolichowki,430,Pure veg,3.9,11:30,22:30
+Kitchen of Garden Tolichowki,Bakery and Cafe,Tolichowki,320,Yes,4.0,08:00,22:30
+Royal Garden Begumpet,Chinese,Begumpet,420,Yes,4.5,12:00,23:00
+Bawarchi Palace Kukatpally,North Indian,Kukatpally,640,Pure veg,4.1,11:30,23:00
+New Delight Kukatpally,Hyderabadi Biryani,Kukatpally,440,No,4.1,11:00,23:30
+Udupi Rasoi Golconda,Irani Cafe,Golconda,130,Yes,4.3,06:00,23:00
+Golden Bistro Kondapur,Gujarati Thali,Kondapur,610,Pure veg,4.0,11:30,22:30
+Nawab's Garden Abids,Irani Cafe,Abids,230,Yes,4.1,06:00,23:00
+Paradise Treat Abids,South Indian,Abids,150,Pure veg,3.8,07:00,22:30
+New Express Abids,Chinese,Abids,440,Yes,4.2,12:00,23:00
+Paradise Bistro Jubilee Hills,Bakery and Cafe,Jubilee Hills,440,Yes,4.1,08:00,22:30
+Royal Palace Tank Bund,Mandi (Arabian),Tank Bund,450,Limited,4.2,12:00,23:59
+Golden Dhaba Tank Bund,Continental,Tank Bund,1350,Yes,3.6,12:00,23:30
+Paradise Darbar Somajiguda,South Indian,Somajiguda,180,Pure veg,3.8,07:00,22:30
+The Bhavan Koti,Bakery and Cafe,Koti,240,Yes,3.8,08:00,22:30
+Udupi Dhaba Koti,North Indian,Koti,690,Pure veg,4.1,11:30,23:00
+Bawarchi Garden Golconda,Gujarati Thali,Golconda,400,Pure veg,4.5,11:30,22:30
+Golden Corner Tank Bund,Hyderabadi Biryani,Tank Bund,410,Limited,4.5,11:00,23:30
+Sri Bhavan Somajiguda,Hyderabadi Biryani,Somajiguda,440,No,4.5,11:00,23:30
+Paradise Rasoi Tank Bund,Andhra Meals,Tank Bund,530,Pure veg,4.2,11:30,22:30
+Deccan Express Hitech City,Hyderabadi Biryani,Hitech City,330,Limited,4.1,11:00,23:30
+Sri Garden Ameerpet,Seafood,Ameerpet,1100,Limited,4.0,12:00,23:00
+Hotel Dhaba Tolichowki,South Indian,Tolichowki,220,Pure veg,3.6,07:00,22:30
+Spice Palace Gachibowli,Gujarati Thali,Gachibowli,640,Pure veg,3.8,11:30,22:30
+Spice Treat Abids,Street Food and Chaat,Abids,210,Pure veg,3.8,15:00,23:00
+Royal House Ameerpet,Irani Cafe,Ameerpet,180,Yes,3.6,06:00,23:00
+Kitchen of Cafe Ameerpet,Mandi (Arabian),Ameerpet,880,Limited,3.6,12:00,23:59
+Hotel Palace Nampally,Street Food and Chaat,Nampally,220,Pure veg,3.7,15:00,23:00
+Kitchen of Palace Kondapur,Hyderabadi Biryani,Kondapur,420,Limited,3.9,11:00,23:30
+Paradise House Golconda,Mandi (Arabian),Golconda,710,No,4.6,12:00,23:59
+Deccan Bistro Golconda,Gujarati Thali,Golconda,400,Pure veg,4.5,11:30,22:30
+Kitchen of Palace Banjara Hills,Andhra Meals,Banjara Hills,630,Pure veg,4.1,11:30,22:30
+Royal Rasoi Lakdikapul,Andhra Meals,Lakdikapul,420,Pure veg,3.7,11:30,22:30
+Deccan Bistro Kukatpally,Bakery and Cafe,Kukatpally,180,Pure veg,3.6,08:00,22:30
+Sri Darbar Old City,Andhra Meals,Old City,640,Pure veg,3.6,11:30,22:30
+New Rasoi Koti,Hyderabadi Biryani,Koti,520,Limited,4.1,11:00,23:30
+New Garden Jubilee Hills,North Indian,Jubilee Hills,680,Pure veg,3.9,11:30,23:00
+Sri House Jubilee Hills,Continental,Jubilee Hills,970,Yes,4.5,12:00,23:30
+Taste of Express Hitech City,Chinese,Hitech City,640,Yes,3.6,12:00,23:00
+Kitchen of Bistro Jubilee Hills,Street Food and Chaat,Jubilee Hills,140,Pure veg,4.5,15:00,23:00
+The Rasoi Charminar,Continental,Charminar,940,Yes,4.4,12:00,23:30
+Deccan Delight Gachibowli,Gujarati Thali,Gachibowli,400,Pure veg,3.9,11:30,22:30
+Royal Dhaba Gachibowli,Mandi (Arabian),Gachibowli,870,Limited,4.0,12:00,23:59
+Sri Treat Gachibowli,Irani Cafe,Gachibowli,130,Yes,3.9,06:00,23:00
+Nawab's Treat Secunderabad,North Indian,Secunderabad,510,Yes,3.9,11:30,23:00
+Kitchen of House Banjara Hills,South Indian,Banjara Hills,210,Pure veg,4.1,07:00,22:30
+Grand Bhavan Banjara Hills,South Indian,Banjara Hills,300,Pure veg,4.3,07:00,22:30
+New Palace Lakdikapul,Continental,Lakdikapul,990,Yes,4.5,12:00,23:30
+Paradise Bhavan Old City,Andhra Meals,Old City,250,Yes,4.1,11:30,22:30
+Hotel Treat Tank Bund,Chinese,Tank Bund,770,Yes,3.9,12:00,23:00
+Paradise Bistro Banjara Hills,Gujarati Thali,Banjara Hills,500,Pure veg,4.1,11:30,22:30
+Paradise House Somajiguda,Chinese,Somajiguda,580,Yes,3.6,12:00,23:00
+Taste of Rasoi Somajiguda,Gujarati Thali,Somajiguda,440,Pure veg,4.2,11:30,22:30
+Royal Bhavan Begumpet,Andhra Meals,Begumpet,550,Pure veg,4.2,11:30,22:30
+Golden Treat Koti,Mandi (Arabian),Koti,510,No,4.1,12:00,23:59
+Deccan Kitchen Abids,Gujarati Thali,Abids,520,Pure veg,3.6,11:30,22:30
+Royal Cafe Begumpet,Gujarati Thali,Begumpet,450,Pure veg,3.7,11:30,22:30
+Grand Dhaba Kukatpally,Irani Cafe,Kukatpally,100,Yes,4.0,06:00,23:00
+Golden Bhavan Somajiguda,Seafood,Somajiguda,750,Limited,3.7,12:00,23:00
+Royal Delight Tank Bund,North Indian,Tank Bund,660,Yes,4.6,11:30,23:00
+Royal Bistro Golconda,South Indian,Golconda,180,Pure veg,4.0,07:00,22:30
+New Point Tolichowki,Gujarati Thali,Tolichowki,510,Pure veg,4.5,11:30,22:30
+Spice Dhaba Tolichowki,Street Food and Chaat,Tolichowki,220,Pure veg,4.0,15:00,23:00
+Golden House Kukatpally,Seafood,Kukatpally,750,Limited,4.4,12:00,23:00
+Taste of Express Kukatpally,Bakery and Cafe,Kukatpally,290,Pure veg,4.0,08:00,22:30
+Nawab's Darbar Secunderabad,Irani Cafe,Secunderabad,220,Yes,3.6,06:00,23:00
+Paradise Delight Somajiguda,Irani Cafe,Somajiguda,130,Yes,3.6,06:00,23:00
+Golden Bhavan Golconda,Chinese,Golconda,330,Yes,3.7,12:00,23:00
+Paradise Garden Nampally,Continental,Nampally,1480,Yes,4.5,12:00,23:30
+Nawab's House Charminar,Mandi (Arabian),Charminar,780,Limited,3.9,12:00,23:59
+Udupi Point Golconda,Bakery and Cafe,Golconda,260,Pure veg,4.0,08:00,22:30
+Sri Bhavan Kukatpally,Continental,Kukatpally,940,Yes,4.2,12:00,23:30
+Bawarchi Corner Madhapur,Seafood,Madhapur,630,Limited,4.6,12:00,23:00
+Grand Treat Nampally,Continental,Nampally,630,Yes,3.6,12:00,23:30
+The Garden Koti,Hyderabadi Biryani,Koti,430,Limited,3.9,11:00,23:30
+Nawab's Cafe Ameerpet,Mandi (Arabian),Ameerpet,850,Limited,3.9,12:00,23:59
+Golden Garden Abids,Andhra Meals,Abids,630,Pure veg,4.1,11:30,22:30
+Udupi Treat Abids,Irani Cafe,Abids,90,Yes,4.3,06:00,23:00
+Grand Delight Charminar,Irani Cafe,Charminar,140,Yes,3.6,06:00,23:00
+Golden Rasoi Hitech City,Street Food and Chaat,Hitech City,140,Pure veg,4.3,15:00,23:00
+Paradise Rasoi Lakdikapul,Street Food and Chaat,Lakdikapul,110,Pure veg,4.4,15:00,23:00
+Grand Garden Banjara Hills,Andhra Meals,Banjara Hills,410,Pure veg,4.1,11:30,22:30
+Hotel Point Hitech City,Continental,Hitech City,1310,Yes,4.4,12:00,23:30
+Bawarchi Treat Begumpet,North Indian,Begumpet,560,Pure veg,4.4,11:30,23:00
+Spice Treat Golconda,Chinese,Golconda,490,Yes,3.6,12:00,23:00
+Bawarchi Corner Tank Bund,South Indian,Tank Bund,170,Pure veg,4.0,07:00,22:30
+Paradise Delight Koti,Gujarati Thali,Koti,570,Pure veg,3.7,11:30,22:30
+Udupi Corner Golconda,Street Food and Chaat,Golconda,200,Pure veg,4.0,15:00,23:00
+Bawarchi Bistro Gachibowli,Chinese,Gachibowli,340,Yes,3.8,12:00,23:00

@@ -1,0 +1,30 @@
+# VisitIQ - Hyderabad Tourist RAG Agent
+# Install with:  pip install -r requirements.txt   (Python 3.11 / 3.12)
+
+# UI
+streamlit>=1.57
+
+# LLM + agent orchestration
+groq>=0.11
+langgraph>=0.2
+pydantic>=2.7
+
+# RAG: embeddings + vector DB
+sentence-transformers>=3.0
+chromadb>=0.5
+
+# Document parsing
+pypdf>=4.2
+pandas>=2.2
+openpyxl>=3.1
+
+# Config / utils
+python-dotenv>=1.0
+
+# Sample data + architecture deck generation
+reportlab>=4.2
+python-pptx>=1.0
+Pillow>=10.0
+
+# Testing
+pytest>=8.2
